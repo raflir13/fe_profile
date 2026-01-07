@@ -124,3 +124,4 @@ export default function AvatarUpload({ profile, onUpload, onClose }: AvatarUploa
     </div>
   );
 }
+
